@@ -11,11 +11,11 @@ https://github.com/internbuddy/assignment.git
 InternBuddy team conduct free bootcamp for interns to help them to strengthen their skills in latest technology. Candidates who successfully qualify with InternBuddy criteria, gets opportunity to persue Internship in Mavoix Solutions Pvt. Ltd. We are looking
 for candidates with following skills ;
 
-#### Data Science (AI/ML/DL)
-#### FullStack (MERN) Development
-#### Web Development
-#### DevOps
-#### Cloud Technology
+* Data Science (AI/ML/DL)
+* FullStack (MERN) Development
+* Web Development
+* DevOps
+* Cloud Technology
 
 ## Internship BootCamp
 This is an excellent free program to get ready for internship. 
